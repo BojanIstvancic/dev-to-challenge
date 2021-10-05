@@ -1,0 +1,14 @@
+{
+  "navigation.item.1.name": "Home",
+  "navigation.item.2.name": "About",
+  "navigation.item.3.name": "Gallery",
+  "navigation.item.4.name": "Contact",
+
+  "article.1.title": "Exploration",
+  "article.1.description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Placerat id potenti faucibus nec, rhoncus, vulputate",
+  "article.2.title": "Footprint",
+  "article.2.description": "Lorem ipsum dolor sit amet, consectetur",
+
+  "index.hero.title": "Adventure Together",
+  "index.hero.subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Placerat id potenti faucibus nec, rhoncus, vulputate vitae. Dictum rutrum ut cras nullam porta id dolor arcu, quis."
+}
